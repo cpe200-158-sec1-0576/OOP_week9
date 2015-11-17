@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2015\Projects\HighLowCard\HighLowCard\bin\Debug\HighLowCard.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\HighLowCard\HighLowCard\obj\Debug\HighLowCard.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\HighLowCard\HighLowCard\bin\Debug\HighLowCard.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\HighLowCard\HighLowCard\bin\Debug\HighLowCard.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\HighLowCard\HighLowCard\obj\Debug\HighLowCard.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\HighLowCard\HighLowCard\obj\Debug\HighLowCard.pdb
